@@ -1,0 +1,6 @@
+{
+  "name": "aulamestra",
+  "version": "1.0.0",
+  "description": "AulaMestra — IA Pedagógica com BNCC",
+  "engines": { "node": "18.x" }
+}
